@@ -1,3 +1,4 @@
+```markdown
 📋 RAPPORT 2 : TAJMOUATI Moad - BI4people (2021-2022)
 Vue d'ensemble
 AspectDétailsÉtudiantTAJMOUATI MoadMasterInformatique Décisionnelle Et Vision IntelligenteUniversitéSidi Mohamed Ben Abdellah (Fès, Maroc) + Lumière Lyon 2 (France)Période23 mars - 29 juillet 2022 (18 semaines)LaboratoireERIC (Université Lyon 2 & Lyon 1)ProjetANR BI4people - "Le décisionnel pour tous"
